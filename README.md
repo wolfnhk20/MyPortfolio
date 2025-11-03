@@ -1,0 +1,2 @@
+# My Portfolio
+This is the personal portfolio website of me, a full-stack Java developer, musician, and tech enthusiast based in Pune. The website showcases my skills, projects, passions, and provides a way to get in touch.
